@@ -1,0 +1,29 @@
+.titleStyle{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.formCalculate form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.input input {
+    width: 300px;
+    border: 2px solid #A41D16;
+
+}
+.input {
+    margin: 5px 0px 5px 0px;    
+}
+.option select {
+    width: 300px;
+    border: 2px solid #A41D16;
+}
+.option {
+    margin: 5px 0px 5px 0px;
+}
